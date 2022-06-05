@@ -367,7 +367,7 @@ footer {
 .filter {
     position: relative;
     -webkit-filter: brightness(69%) sepia(31%);
-  filter: brightness(89%) sepia(31%);
+    filter: brightness(89%) sepia(31%);
     width: 100%;
     margin: 0;
   }
